@@ -1,0 +1,93 @@
+{
+    "nextId": 16,
+    "items": [
+        {
+            "id": 1,
+            "name": "HLTV",
+            "address": "hltv.org",
+            "visits_per_day": 1234,
+            "count_of_ad_bunners": 34,
+            "date_of_creating": "2020-10-08"
+        },
+        {
+            "id": 2,
+            "name": "youtube",
+            "address": "youtube.com",
+            "visits_per_day": 213,
+            "count_of_ad_bunners": 12,
+            "date_of_creating": "2010-11-11"
+        },
+        {
+            "id": 3,
+            "name": "twitch",
+            "address": "twitch.com",
+            "visits_per_day": 99999,
+            "count_of_ad_bunners": 10,
+            "date_of_creating": "2015-12-01"
+        },
+        {
+            "id": 4,
+            "name": "telegram",
+            "address": "telegram.com",
+            "visits_per_day": 3246,
+            "count_of_ad_bunners": 0,
+            "date_of_creating": "2017-11-11"
+        },
+        {
+            "id": 10,
+            "name": "string",
+            "address": "string",
+            "visits_per_day": 0,
+            "count_of_ad_bunners": 0,
+            "date_of_creating": "2020"
+        },
+        {
+            "name": "228",
+            "address": "string",
+            "visits_per_day": 0,
+            "count_of_ad_bunners": 0,
+            "date_of_creating": "2020-11-11",
+            "id": 11
+        },
+        {
+            "name": "asdf",
+            "address": "string",
+            "visits_per_day": 0,
+            "count_of_ad_bunners": 0,
+            "date_of_creating": "2020-11-11",
+            "id": 12
+        },
+        {
+            "name": "asdf",
+            "address": "string",
+            "visits_per_day": 0,
+            "count_of_ad_bunners": 0,
+            "date_of_creating": "2020",
+            "id": 13
+        },
+        {
+            "name": "asdf",
+            "address": "string",
+            "visits_per_day": 0,
+            "count_of_ad_bunners": 0,
+            "date_of_creating": "2020",
+            "id": 14
+        },
+        {
+            "name": "asdf",
+            "address": "string",
+            "visits_per_day": 0,
+            "count_of_ad_bunners": 0,
+            "date_of_creating": "2020",
+            "id": 15
+        },
+        {
+            "id": 16,
+            "name": "string",
+            "address": "string",
+            "visits_per_day": 0,
+            "count_of_ad_bunners": 0,
+            "date_of_creating": "2020-11-11"
+        }
+    ]
+}

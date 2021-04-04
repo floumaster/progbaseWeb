@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "HLTV",
+        "address": "hltv.org",
+        "visits_per_day": 2228,
+        "count_of_ad_bunners": 15,
+        "date_of_creating": "2004-05"
+    },
+    {
+        "id": 2,
+        "name": "Youtube",
+        "address": "youtube.com",
+        "visits_per_day": 9999556,
+        "count_of_ad_bunners": 900,
+        "date_of_creating": "1245-11"
+    },
+    {
+        "id": 3,
+        "name": "updated",
+        "address": "updated.com",
+        "visits_per_day": 213,
+        "count_of_ad_bunners": 34,
+        "date_of_creating": "2020-10-08"
+    },
+    {
+        "id": 4,
+        "name": "Telegram",
+        "address": "telegram.ru",
+        "visits_per_day": 7823,
+        "count_of_ad_bunners": 0,
+        "date_of_creating": "2015-12"
+    },
+    {
+        "id": 5,
+        "name": "Coursera",
+        "address": "coursera.com",
+        "visits_per_day": 500,
+        "count_of_ad_bunners": 0,
+        "date_of_creating": "2010-09"
+    },
+    {
+        "id": 6,
+        "name": "Twitch",
+        "address": "twitch.com",
+        "visits_per_day": 897443,
+        "count_of_ad_bunners": 50,
+        "date_of_creating": "2015-03"
+    },
+    {
+        "id": 7,
+        "name": "lol",
+        "address": "kek.ru",
+        "visits_per_day": 123,
+        "count_of_ad_bunners": 324,
+        "date_of_creating": "2009-11-11"
+    },
+    {
+        "id": 8,
+        "name": "lol",
+        "address": "lol.kek",
+        "visits_per_day": 213,
+        "count_of_ad_bunners": 324,
+        "date_of_creating": "2009-11-11"
+    },
+    {
+        "id": 9,
+        "name": "newweb",
+        "address": "newweb.com",
+        "visits_per_day": 234,
+        "count_of_ad_bunners": 34,
+        "date_of_creating": "2020-10-08"
+    }
+]

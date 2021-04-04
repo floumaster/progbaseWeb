@@ -1,0 +1,55 @@
+[{
+        "id": 1,
+        "login": "flomaster",
+        "fullname": "Roma Tsay",
+        "role": 0,
+        "registeredAt": "2004-05",
+        "avaUrl": "https://svirtus.cdnvideo.ru/8sKJ5rxIAFxnFTA8s2qLjniN1zU=/0x0:400x400/200x200/filters:quality(100)/https://hb.bizmrg.com/esports-core-media/7e/7ef607a7eeb9785d35330c1ab8d9edfa.jpg?m=0ea7b51e20c86ee12ea6e2b7fa81cb7f",
+        "isEnabled": false
+    },
+    {
+        "id": 2,
+        "login": "kurant",
+        "fullname": "Sonya Kurant",
+        "role": 0,
+        "registeredAt": "2003-09",
+        "avaUrl": "https://sun9-10.userapi.com/c840024/v840024776/3dd5b/zX4qlmtP0DE.jpg?ava=1",
+        "isEnabled": true
+    },
+    {
+        "id": 3,
+        "login": "balizzard",
+        "fullname": "Roma Marchenko",
+        "role": 1,
+        "registeredAt": "2002-04",
+        "avaUrl": "https://icdn.lenta.ru/images/2018/01/28/18/20180128185743511/detail_d1e245a32c7d3cf2674b6e1435f0104e.jpg",
+        "isEnabled": true
+    },
+    {
+        "id": 4,
+        "login": "Johs",
+        "fullname": "Masha Johs",
+        "role": 0,
+        "registeredAt": "2003-07",
+        "avaUrl": "https://pp.userapi.com/c841035/v841035758/727f5/UO7RtzR3Mzk.jpg?ava=1",
+        "isEnabled": false
+    },
+    {
+        "id": 5,
+        "login": "Nazarchik",
+        "fullname": "Egor Nazarenko",
+        "role": 0,
+        "registeredAt": "2002-07",
+        "avaUrl": "https://svirtus.cdnvideo.ru/ukeAGDAxBX0UZDPpKRsAvaCPMak=/0x0:277x277/200x200/filters:quality(100)/https://hb.bizmrg.com/esports-core-media/2a/2a83adf3016966390a4937d03042397d.png?m=602a7431c9222b2994f1928dcc38a87b",
+        "isEnabled": true
+    },
+    {
+        "id": 6,
+        "login": "Strannaya",
+        "fullname": "Hellen Makarenko",
+        "role": 0,
+        "registeredAt": "2004-05",
+        "avaUrl": "https://www.meme-arsenal.com/memes/706b6bb9472bf84db5def515da4513bf.jpg",
+        "isEnabled": false
+    }
+]
